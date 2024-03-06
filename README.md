@@ -1,3 +1,3 @@
-# data-science-
-# basic fuctions and oprations 
+# Data-science project(tutorial)
+## basic fuctions and oprations 
 ## Regression Analysis
